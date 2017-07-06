@@ -1,0 +1,7 @@
+[package]
+name = "deoffset"
+version = "0.1.0"
+authors = ["Frederik Deweerdt <fdeweerdt@fastly.com>"]
+
+[dependencies]
+regex = "0.2"
